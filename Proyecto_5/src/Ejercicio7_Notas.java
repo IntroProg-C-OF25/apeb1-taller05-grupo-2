@@ -33,6 +33,7 @@ public class Ejercicio7_Notas {
  * Igrese la nota del estudiante: 5
  * Estudiante reprobado
  * 
- * 
- * 
+ * run: 
+ * Igrese la nota del estudiante: 88
+ * B
  * /

@@ -38,5 +38,17 @@ public class Ejercicio12_Calculo_Impuesto {
         System.out.println("Impuesto por pagar = " + monto_impuesto);
         System.out.println("Precio de ventas con impuesto + " + precio_venta);
         }
+    /*
+    run:
+    *Ingrese la marca del aurtomovil: 
+    Toyota
+    *Ingrese el origen de su coche: 
+    Japon
+    *Ingrese el costo del automovil: 
+    10000
+    *Impuesto por pagar = 3000.0
+    Precio de ventas con impuesto + 13000.0
+BUILD SUCCESSFUL (total time: 1 minute 12 seconds)
+    */
     }
 
